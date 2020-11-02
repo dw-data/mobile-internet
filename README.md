@@ -73,3 +73,53 @@ We **relabelled** the CableUK data labelled as 2019 by the data provider as 2018
 
 
 ## Results
+
+
+
+
+### Comparison to other continents
+
+* the median price for 1GB mobile internet per month is US$ 3.30 in African continent
+
+* only in the Americas 1GB mobile internet is more expensive
+
+ all regions are below the recommended UN target for affordability -- except for Africa. Here, people need to pay more than 2% of their monthly income
+
+* an "affordable" median price would be US$ 2.41
+
+
+### Comparing African countries
+
+* prices within Africa vary a lot
+
+* in 21 African countries, internet would be considered affordable, meaning 1GB costs less than 2% of the country's monthly gross national income.
+
+* in 28 African countries, internet is considerably more expensive -- on average, the price in these countries is three times as high as it should be
+
+* furthermore, it is particularly the poorer countries where mobile internet is more expensive than it should be: except for Botswana and Equatorial-Guinea, all countries with a too high median price are "low income" (19 countries) or "low middle income" (7 countries) respectively
+
+
+
+### Price range: actual and affordable prices
+
+* Mobile internet is most expensive in Malawi: for 1 GB mobile data a person in Malawi has to pay about US$ 27.41 -- in relation to a monthly median income of US$ 31,67 this price equals approx. 87 percent (in stark contrast to the recommended 2 percent). An adquate price would be US$ 0.63
+
+* significant price ranges between actual and affordable prices can also be found in Benin, Chad, Eswatini, Madagascar and the Central African Republic
+
+Legt man diese Preisempfehlung der UN zugrunde, dürfte 1GB mobiles Datenvolumen in Malawi nur 0,63 US-Dollar kosten (blauer Punkt auf der Grafik).  
+
+
+### How prices changed from 2018 to 2020
+
+* the market does not seem to move in the direction intended by the UN
+
+* the median price fell in 32 countries, but rose in 12 countries
+
+* despite the change, the price is still above the recommended one in 26 countries
+ 
+* in these 9 countries, the price was already too expensive in 2018 and the rose even more until 2020: Malawi, Madagascar, Mauretania, CAR, Benin, Niger, Guinea, Burundi and Senegal 
+
+* while the price was affordable in 2018 in Cameroon and Rwanda, it rose above the recommended threshold in 2020
+
+* the price was considered too expensive in 2018 in Congo, Lesotho and Namibia but fell until 2020, so that the median price is now considered affordable
+
