@@ -83,7 +83,7 @@ We **relabelled** the CableUK data labelled as 2019 by the data provider as 2018
 
 * only in the Americas 1GB mobile internet is more expensive
 
- all regions are below the recommended UN target for affordability -- except for Africa. Here, people need to pay more than 2% of their monthly income
+* all regions are below the recommended UN target for affordability -- except for Africa. Here, people need to pay more than 2% of their monthly income
 
 * an "affordable" median price would be US$ 2.41
 
@@ -105,8 +105,7 @@ We **relabelled** the CableUK data labelled as 2019 by the data provider as 2018
 * Mobile internet is most expensive in Malawi: for 1 GB mobile data a person in Malawi has to pay about US$ 27.41 -- in relation to a monthly median income of US$ 31,67 this price equals approx. 87 percent (in stark contrast to the recommended 2 percent). An adquate price would be US$ 0.63
 
 * significant price ranges between actual and affordable prices can also be found in Benin, Chad, Eswatini, Madagascar and the Central African Republic
-
-Legt man diese Preisempfehlung der UN zugrunde, dürfte 1GB mobiles Datenvolumen in Malawi nur 0,63 US-Dollar kosten (blauer Punkt auf der Grafik).  
+  
 
 
 ### How prices changed from 2018 to 2020
